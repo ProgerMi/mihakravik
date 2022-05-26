@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mihakravik
+- 👀 I’m interested in Python 
+- 🌱 I’m currently learning Python
+- 📫 How to reach me @kravikmiha - Telegram 
