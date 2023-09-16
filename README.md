@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mihakravik
-- 👀 I’m interested in Python 
+- 👋 Hi, I’m Proger_Mi
+- 👀 I’m interested in Minecraft 
 - 🌱 I’m currently learning Python
 - 📫 How to reach me @kravikmiha - Telegram 
